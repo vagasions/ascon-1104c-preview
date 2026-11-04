@@ -1,0 +1,1 @@
+import{gt as e,ht as t,nt as n}from"./DOW2GryR.js";function r(r,i){e(i,!0),n(()=>(document.body.classList.add(`m-win-page`),()=>document.body.classList.remove(`m-win-page`))),t()}export{r as t};

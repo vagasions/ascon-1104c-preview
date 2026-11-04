@@ -1,0 +1,1 @@
+import"../chunks/DOW2GryR.js";import"../chunks/Ceurbm3_.js";import{t as e}from"../chunks/CTcU9umD.js";function t(t){e(t,{tab:`goods`})}export{t as component};

@@ -1,0 +1,1 @@
+import"../chunks/DOW2GryR.js";import"../chunks/Ceurbm3_.js";import{t as e}from"../chunks/BuzVn_rB.js";function t(t){e(t,{tab:`upcoming`})}export{t as component};

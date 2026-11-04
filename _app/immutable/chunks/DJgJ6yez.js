@@ -1,0 +1,1 @@
+var e=new Set([`confirmed`,`decided`,`matched2`]),t=t=>t?.link_kind===`candidate`||t?.link_kind===null?[]:(Array.isArray(t?.prices)?t.prices:[]).filter(t=>e.has(t?.tie));export{t as n,e as t};

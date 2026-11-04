@@ -1,0 +1,1 @@
+import"../chunks/DOW2GryR.js";import"../chunks/Ceurbm3_.js";import{t as e}from"../chunks/CIkdcq7S.js";function t(t){e(t,{tab:`plants`})}export{t as component};
