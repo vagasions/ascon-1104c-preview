@@ -1,1 +1,0 @@
-var e=e=>new Map(e.flatMap(e=>(e.merged_from||[]).map(t=>[t,e.sido]))),t=t=>{let n=e(t);return e=>n.get(e)||e},n=(e,t)=>new Set([t,...e.find(e=>e.sido===t)?.merged_from||[]]),r=e=>{let t=[...e].sort((e,t)=>e-t),n=t.length>>1;return t.length%2?t[n]:(t[n-1]+t[n])/2};export{n,t as r,r as t};

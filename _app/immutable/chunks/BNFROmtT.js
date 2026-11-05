@@ -1,1 +1,0 @@
-import{t as e}from"./DK3Fl9T5.js";var t=e({default:()=>n}),n=new URL(`../assets/41360.B7Wyk5Km.geojson`,import.meta.url).href;export{t as n,n as t};

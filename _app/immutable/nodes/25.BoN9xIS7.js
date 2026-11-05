@@ -1,1 +1,0 @@
-import"../chunks/DOW2GryR.js";import{t as e}from"../chunks/BX3bTME6.js";function t(t,n){e(t,{tab:`costs`,get fixed(){return n.data}})}export{t as component};

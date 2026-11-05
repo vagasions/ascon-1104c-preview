@@ -1,1 +1,0 @@
-import{t as e}from"./Ceurbm3_.js";function t(t){let n=e.routes.find(e=>e.path===t);if(!n)throw Error(`no route ${t} in site/pages.json`);return n}export{t};

@@ -1,1 +1,0 @@
-import"../chunks/DOW2GryR.js";import{t as e}from"../chunks/C2XU_-vp.js";function t(t,n){e(t,{tab:`orders`,get fixed(){return n.data}})}export{t as component};
